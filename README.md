@@ -53,5 +53,8 @@ Fake news detection is essential to prevent misinformation in digital media. Thi
 * Debugging real-world ML issues
 * Model deployment
 
+---
+## 🔗 Demo
+https://4c6c03830efa7e398b.gradio.live
 
 ---
